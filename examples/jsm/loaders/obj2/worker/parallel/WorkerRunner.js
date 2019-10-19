@@ -171,5 +171,6 @@ WorkerRunner.prototype = {
 
 export {
 	WorkerRunner,
-	DefaultWorkerPayloadHandler
+	DefaultWorkerPayloadHandler,
+	ObjectManipulator
 };
